@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boburmax
-- 👀 I’m interested in python and Limux
+- 👀 I’m interested in python and Linux
 - 🌱 I’m currently learning Linux administration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
